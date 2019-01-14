@@ -10,4 +10,4 @@ AND person.mother IS NOT NULL
 AND fatherdod IS NOT NULL
 AND motherdod IS NOT NULL
 AND dod<fatherdod AND dod<motherdod
-; 
+;
